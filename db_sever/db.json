@@ -1,0 +1,18 @@
+{
+    "records": [
+        {
+            "id": 1,
+            "gender": "Male",
+            "age": 25,
+            "area": "Taipei",
+            "food": 2
+        },
+        {
+            "id": 2,
+            "gender": "Female",
+            "age": 35,
+            "area": "Taoyuan",
+            "food": 1
+        }
+    ]
+}
